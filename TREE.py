@@ -6,4 +6,5 @@ with open('/home/cyagen1/Downloads/rosalind_rstr.txt', 'r') as f:
 
 n = data[0][0]
 edges = data[1:]
-print(n - len(edges) - 1)
+print(n - len(edges) - 1 )
+##a tree has n nodes,then has (n-1) edges.
