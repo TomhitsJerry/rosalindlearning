@@ -17,7 +17,7 @@ print  fibonacciRabbits(98,20)
 
 ####    ages = [sum(ages[1:])] + ages[:-1]
 
-####  return sum(ages)
+####  return sum(ages).,
 ####print fib(6,3)
 #[new-bornt,grown-up,old]
 #in each generation,N:grown-up number =N-1:new-bornt number
